@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "6af583e314b33f620cd8253f",
+    "_type": "article",
+    "title": "Teitl yr erthygl",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image13 no-element-backgrounds no-article-backgrounds remove-padding-top",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd8253d",
+    "_type": "article",
+    "title": "Teitl yr erthygl",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image13 no-element-backgrounds no-article-backgrounds ",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82541",
+    "_type": "article",
+    "title": "Teitl yr erthygl",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image13 no-element-backgrounds no-article-backgrounds remove-padding-bottom",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82543",
+    "_type": "article",
+    "title": "Teitl yr erthygl",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour2 no-element-backgrounds no-article-backgrounds remove-padding-top remove-padding-bottom",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82545",
+    "_type": "article",
+    "title": "Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+    "displayTitle": "Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+    "body": "",
+    "_classes": "background-colour10 no-element-backgrounds no-article-backgrounds custom-hg-layout black-mobile-body",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd8254b",
+    "_type": "article",
+    "title": "Teitl yr erthygl",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour2 remove-padding-top remove-padding-bottom",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82549",
+    "_type": "article",
+    "title": "Gadewch i ni ddechrau",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image6 background-colour2 no-article-backgrounds article-centre",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82547",
+    "_type": "article",
+    "title": "Teitl yr erthygl",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image6",
+    "_parentId": "6af583e314b33f620cd8253a",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

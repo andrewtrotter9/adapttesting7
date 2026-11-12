@@ -1,0 +1,331 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "title": "Gwiriad hyder cyn cwrs: Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+  "displayTitle": "Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+  "body": "",
+  "description": "",
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Click or tap on the blocks below to find out more"
+    }
+  },
+  "_latestTrackingId": 11,
+  "_language": "cy",
+  "_multilanguage": [],
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "6af583e314b33f620cd8253a",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": true
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Troi hygyrchedd ymlaen?",
+      "_accessibilityToggleTextOff": "Troi hygyrchedd i ffwrdd?",
+      "skipNavigationText": "Osgoi llywio",
+      "_accessibilityInstructions": {
+        "touch": "Cyfarwyddiadau defnyddio. Defnyddiwch sweipio i’r chwith ar gyfer nesaf. Defnyddiwch sweipio i’r dde ar gyfer blaenorol. Defnyddiwch tapio ddwywaith i ddewis. Defnyddiwch sweipio i fyny gyda dau fys i fynd i frig y dudalen.",
+        "notouch": "Cyfarwyddiadau defnyddio. Defnyddiwch tab ar gyfer nesaf. Defnyddiwch ‘shift tab’ ar gyfer blaenorol. Defnyddiwch ‘enter’ i ddewis. Defnyddiwch ‘escape’ i fynd i frig y dudalen.",
+        "ipad": "Cyfarwyddiadau defnyddio ar gyfer sgriniau cyffwrdd. Defnyddiwch sweipio i’r chwith ar gyfer nesaf. Defnyddiwch sweipio i’r dde ar gyfer blaenorol. Defnyddiwch tapio ddwywaith i ddewis. Defnyddiwch sweipio i fyny gyda dau fys i fynd i frig y dudalen. Cyfarwyddiadau defnyddio ar gyfer mynediad bysellfwrdd. Defnyddiwch chwith ar gyfer nesaf. Defnyddiwch dde ar gyfer blaenorol. Defnyddiwch i fyny ac i lawr i ddewis."
+      },
+      "_ariaLabels": {
+        "navigation": "Bar llywio cwrs",
+        "skipNavigation": "Osgoi llywio",
+        "home": "Hafan",
+        "menuLoaded": "Dewislen wedi llwytho",
+        "menu": "Dewislen",
+        "menuItem": "Eitem dewislen",
+        "menuViewButton": "Dewiswch yma i fynd i mewn",
+        "page": "Tudalen",
+        "pageLoaded": "Tudalen wedi llwytho",
+        "previous": "Yn ôl",
+        "navigationBack": "Llywio’n ôl",
+        "navigationDrawer": "Gwybodaeth ychwanegol",
+        "closeResources": "Close resources",
+        "drawerBack": "Yn ôl i’r drâr",
+        "drawer": "Drâr ochr",
+        "closeDrawer": "Cau drâr",
+        "closePopup": "Cau popup",
+        "next": "Nesaf",
+        "done": "Wedi’i wneud",
+        "complete": "Wedi’i gwblhau",
+        "incomplete": "Heb ei gwblhau",
+        "correct": "Cywir",
+        "incorrect": "Anghywir",
+        "locked": "Wedi’i gloi",
+        "accessibilityToggleButton": "Trwy ddewis y botwm hwn gallwch osod a yw hygyrchedd yn cael ei droi ymlaen neu i ffwrdd",
+        "feedbackPopUp": "Popup wedi agor",
+        "visited": "Wedi ymweld",
+        "menuBack": "Yn ôl i’r ddewislen",
+        "menuIndicatorHeading": "Pennawd eitem dewislen ",
+        "exit": "Ymadael",
+        "logoHomeButtonAltText": "",
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "close": "Close",
+        "required": "Required",
+        "optional": "Optional",
+        "topOfContentObject": "{{type}} {{displayTitle}}",
+        "course": "Main menu"
+      },
+      "altFeedbackTitle": "Feedback"
+    },
+    "_extensions": {
+      "_drawer": {
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_navOrder": 100
+      },
+      "_confirmExit": {
+        "confirmExitButtonLabel": "Ymadael Course",
+        "confirmExitTitle": "Rhybudd",
+        "confirmExitBody": "Ydych chi'n siwr eich bod am adael a chau'r cwrs hwn?",
+        "confirmExitYes": "Ydw",
+        "confirmExitNo": "Na",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_glossary": {
+        "glossary": "Geirfa",
+        "labelLink": "Termau yn dechrau gyda",
+        "labelNavigation": "Llywio geirfa"
+      },
+      "_languagePicker": {
+        "languageSelector": "Dewis iaith",
+        "_navOrder": "0",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Dewisydd iaith"
+        },
+        "_showLabel": true,
+        "navigationBarLabel": "Dewis iaith y cwrs",
+        "_drawerPosition": "auto"
+      },
+      "_tutor": {
+        "hideFeedback": "Cuddio adborth"
+      },
+      "_resources": {
+        "ariaRegion": "",
+        "resources": "Adnoddau ychwanegol."
+      },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Rhestr o adrannau tudalen a statws cwblhau. Dewiswch adrannau anghyflawn i neidio’n uniongyrchol i’r cynnwys.",
+        "pageLevelProgressIndicatorBar": "Cynnydd tudalen. {{percentageComplete}}%. Agor adrannau tudalen.",
+        "pageLevelProgressMenuBar": "Cwblhau’r dudalen {{percentageComplete}}%",
+        "optionalContent": "Cynnwys dewisol",
+        "_navOrder": "90",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Cynnydd tudalen"
+        },
+        "_showLabel": true,
+        "navLabel": "Cynnydd tudalen",
+        "_drawerPosition": "auto"
+      },
+      "_dyslexiaHelper": {
+        "navigationBarLabel": "Agor opsiynau helpu dyslecsia",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_backNavTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
+      },
+      "_scriptInjector": {}
+    },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Defnyddiwch y bar sgrolio i edrych dros y ddelwedd i’r chwith a’r dde. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_confidenceSlider": {
+        "ariaRegion": "Atebwch y cwestiwn trwy ddewis gwerth o’r graddfa. Ar ôl i chi wneud hynny, dewiswch y botwm cyflwyno isod.",
+        "ariaUserAnswer": "Yn gynharach yn y cwrs, fe wnaethoch chi ddarparu {{{linkedValue}}} fel ateb i’r cwestiwn hwn.",
+        "labelStart": "Dechrau’r raddfa",
+        "labelEnd": "Diwedd y raddfa"
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Duration:",
+        "menuItem": "Menu item.",
+        "menuEnd": "You have reached the end of the menu."
+      }
+    }
+  },
+  "_tooltips": {
+    "_isEnabled": true
+  },
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Cyflwyno",
+      "ariaLabel": "Cyflwyno"
+    },
+    "_reset": {
+      "buttonText": "Ailosod",
+      "ariaLabel": "Ailosod"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Dangos yr ateb cywir",
+      "ariaLabel": "Dangos yr ateb cywir"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Cuddio’r ateb cywir",
+      "ariaLabel": "Cuddio’r ateb cywir"
+    },
+    "_showFeedback": {
+      "buttonText": "Dangos adborth",
+      "ariaLabel": "Dangos adborth"
+    },
+    "remainingAttemptsText": "ymgais yn weddill",
+    "remainingAttemptText": "ymgais olaf",
+    "disabledAriaLabel": "Mae’r botwm hwn wedi’i analluogi ar hyn o bryd"
+  },
+  "_classes": "",
+  "_lockType": null,
+  "metadata": {
+    "parentCourseIds": [
+      "698c85e61decfc7baadf0394",
+      "69ca4f9d375c314e6a9c6764",
+      "6a43a240f98c3b24911679a6",
+      "6a4e4b99e0e8eface9b96182",
+      "6af5839614b33f620cd823d2"
+    ]
+  },
+  "_tenantId": "53f3448081e18d917addc6df",
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "title": "",
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false,
+    "_useCourseProgressInNavigationButton": false
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": false,
+    "nextButtonText": "Nesaf",
+    "prevButtonText": "Blaenorol",
+    "homeButtonText": "Hafan",
+    "upButtonText": "I fyny",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": false,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_dyslexiaHelper": {
+    "_isEnabled": true,
+    "titleText": "Troshaenau Lliw",
+    "instructionsText": "Cliciwch neu tapiwch ar baled lliw isod i alluogi/analluogi troshaenau lliw ar gyfer gwell darllenadwyedd"
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Adnoddau",
+    "description": "Dewiswch yma i weld adnoddau ar gyfer y cwrs hwn",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_enableFilters": true,
+    "_filterButtons": {
+      "all": "Popeth",
+      "document": "Dogfennau",
+      "media": "Cyfryngau",
+      "link": "Dolenni",
+      "custom1": "Math penodol 1",
+      "custom2": "Math penodol 2",
+      "custom3": "Math penodol 3",
+      "custom4": "Math penodol 4",
+      "custom5": "Math penodol 5",
+      "custom6": "Math penodol 6",
+      "custom7": "Math penodol 7",
+      "custom8": "Math penodol 8",
+      "custom9": "Math penodol 9",
+      "custom10": "Math penodol 10"
+    },
+    "_filterAria": {
+      "allAria": "Gweld yr holl adnoddau",
+      "documentAria": "Gweld adnoddau dogfen",
+      "mediaAria": "Gweld adnoddau cyfryngau",
+      "linkAria": "Gweld dolenni adnoddau",
+      "custom1Aria": "Gweld dolenni penodol math 1",
+      "custom2Aria": "Gweld dolenni penodol math 2",
+      "custom3Aria": "Gweld dolenni penodol math 3",
+      "custom4Aria": "Gweld dolenni penodol math 4",
+      "custom5Aria": "Gweld dolenni penodol math 5",
+      "custom6Aria": "Gweld dolenni penodol math 6",
+      "custom7Aria": "Gweld dolenni penodol math 7",
+      "custom8Aria": "Gweld dolenni penodol math 8",
+      "custom9Aria": "Gweld dolenni penodol math 9",
+      "custom10Aria": "Gweld dolenni penodol math 10"
+    },
+    "_resourcesItems": []
+  },
+  "_glossary": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Geirfa",
+    "description": "Dewiswch yma i weld geirfa’r cwrs hwn",
+    "clearSearch": "Clear search",
+    "searchItemsAlert": "Darganfyddwyd {{filteredItems.length}}",
+    "searchPlaceholder": "Chwilio",
+    "searchWithInDescriptionLabel": "Chwilio o fewn Disgrifiad",
+    "itemNotFoundMessage": "Dim canlyniadau wedi’u darganfod",
+    "_isSearchEnabled": true,
+    "_isIndexEnabled": false,
+    "_isGroupHeadersEnabled": false,
+    "_glossaryItems": []
+  },
+  "_scriptInjector": {
+    "_isEnabled": true,
+    "customScript": ""
+  }
+}

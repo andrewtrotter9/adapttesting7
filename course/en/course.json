@@ -1,0 +1,339 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "title": "NEW // Pre-confidence check: How confident are you in tackling illegal lending?",
+  "displayTitle": "Rate your confidence: Illegal lending",
+  "body": "",
+  "description": "",
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Click or tap on the blocks below to find out more"
+    }
+  },
+  "_latestTrackingId": 11,
+  "_language": "en",
+  "_multilanguage": [
+    {
+      "_id": "6af5839614b33f620cd823d2",
+      "key": "en"
+    },
+    {
+      "_id": "6af583e314b33f620cd82537",
+      "key": "cy"
+    }
+  ],
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "6af5839614b33f620cd823d6",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": false,
+    "_isMenuDisabled": true
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Turn accessibility on?",
+      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip navigation",
+        "home": "Home",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Additional information",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closeDrawer": "Close drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading ",
+        "exit": "Exit",
+        "logoHomeButtonAltText": "",
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "close": "Close",
+        "required": "Required",
+        "optional": "Optional",
+        "topOfContentObject": "{{type}} {{displayTitle}}",
+        "course": "Main menu"
+      },
+      "altFeedbackTitle": "Feedback"
+    },
+    "_extensions": {
+      "_drawer": {
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_navOrder": 100
+      },
+      "_confirmExit": {
+        "confirmExitButtonLabel": "Exit",
+        "confirmExitTitle": "Warning",
+        "confirmExitBody": "Are you sure you want to exit and close this course?",
+        "confirmExitYes": "Yes",
+        "confirmExitNo": "No",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_glossary": {
+        "glossary": "Glossary",
+        "labelLink": "Terms beginning with",
+        "labelNavigation": "Glossary navigation"
+      },
+      "_languagePicker": {
+        "languageSelector": "Language selector",
+        "_navOrder": "0",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Language selector"
+        },
+        "_showLabel": true,
+        "navigationBarLabel": "Select course language",
+        "_drawerPosition": "auto"
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      },
+      "_resources": {
+        "ariaRegion": "",
+        "resources": "Additional resources."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "List of page sections and completion status. Select incomplete sections to jump directly to the content.",
+        "pageLevelProgressIndicatorBar": "Page progress. {{percentageComplete}}%. Open page sections.",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "optionalContent": "Optional content",
+        "_navOrder": "90",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Page progress"
+        },
+        "_showLabel": true,
+        "navLabel": "Page progress",
+        "_drawerPosition": "auto"
+      },
+      "_dyslexiaHelper": {
+        "navigationBarLabel": "Open dyslexia helper options",
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_xapi": {
+        "confirm": "OK",
+        "lrsConnectionErrorTitle": "LRS not available",
+        "lrsConnectionErrorMessage": "We were unable to connect to your Learning Record Store (LRS). This means that your progress cannot be recorded."
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_backNavTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
+      },
+      "_scriptInjector": {}
+    },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_confidenceSlider": {
+        "ariaRegion": "Answer the question by selecting a value from the range. Once you have done so, select the submit button below.",
+        "ariaUserAnswer": "Earlier in the course, you provided {{{linkedValue}}} as an answer to this question.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Duration:",
+        "menuItem": "Menu item.",
+        "menuEnd": "You have reached the end of the menu."
+      }
+    }
+  },
+  "_tooltips": {
+    "_isEnabled": true
+  },
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": null,
+  "metadata": {
+    "parentCourseIds": [
+      "698c85e61decfc7baadf0394",
+      "69ca4f9d375c314e6a9c6764",
+      "6a43a240f98c3b24911679a6",
+      "6a4e4b99e0e8eface9b96182"
+    ]
+  },
+  "_tenantId": "53f3448081e18d917addc6df",
+  "_glossary": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Glossary",
+    "description": "Select here to view the glossary for this course",
+    "clearSearch": "Clear search",
+    "searchItemsAlert": "{{filteredItems.length}} found",
+    "searchPlaceholder": "Search",
+    "searchWithInDescriptionLabel": "Search within Description",
+    "itemNotFoundMessage": "No results found",
+    "_isSearchEnabled": true,
+    "_isIndexEnabled": false,
+    "_isGroupHeadersEnabled": false,
+    "_glossaryItems": []
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_enableFilters": true,
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links",
+      "custom1": "Custom type 1",
+      "custom2": "Custom type 2",
+      "custom3": "Custom type 3",
+      "custom4": "Custom type 4",
+      "custom5": "Custom type 5",
+      "custom6": "Custom type 6",
+      "custom7": "Custom type 7",
+      "custom8": "Custom type 8",
+      "custom9": "Custom type 9",
+      "custom10": "Custom type 10"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links",
+      "custom1Aria": "View custom type 1 links",
+      "custom2Aria": "View custom type 2 links",
+      "custom3Aria": "View custom type 3 links",
+      "custom4Aria": "View custom type 4 links",
+      "custom5Aria": "View custom type 5 links",
+      "custom6Aria": "View custom type 6 links",
+      "custom7Aria": "View custom type 7 links",
+      "custom8Aria": "View custom type 8 links",
+      "custom9Aria": "View custom type 9 links",
+      "custom10Aria": "View custom type 10 links"
+    },
+    "_resourcesItems": []
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "title": "",
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false,
+    "_useCourseProgressInNavigationButton": false
+  },
+  "_dyslexiaHelper": {
+    "_isEnabled": true,
+    "titleText": "Coloured Overlays",
+    "instructionsText": "Click or tap on a colour palette below to enable/disable coloured overlays for improved readability"
+  },
+  "_scriptInjector": {
+    "_isEnabled": true,
+    "customScript": "const originalShowModal = HTMLDialogElement.prototype.showModal;\r\n\r\nHTMLDialogElement.prototype.showModal = function () {\r\n  originalShowModal.call(this);\r\n\r\n  if (this.classList.contains('notify__popup')) {\r\n    requestAnimationFrame(() => {\r\n      this.scrollTop = 0;\r\n    });\r\n  }\r\n};\r\n"
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": false,
+    "nextButtonText": "Next",
+    "prevButtonText": "Previous",
+    "homeButtonText": "Home",
+    "upButtonText": "Up",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": false,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  }
+}

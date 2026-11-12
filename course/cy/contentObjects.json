@@ -1,0 +1,48 @@
+[
+  {
+    "_id": "6af583e314b33f620cd8253a",
+    "_type": "page",
+    "title": "Gwiriad hyder cyn cwrs: Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+    "displayTitle": "Gwiriad hyder cyn cwrs: Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+    "body": "",
+    "_classes": "background-image01",
+    "_parentId": "course",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "linkText": "Gweld",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  }
+]

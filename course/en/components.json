@@ -1,0 +1,844 @@
+[
+  {
+    "_id": "6af5839714b33f620cd82403",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823ec",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd82405",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823ee",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd82407",
+    "_type": "component",
+    "_component": "graphic",
+    "_layout": "left",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839614b33f620cd823ea",
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Rate your confidence - Illegal lending",
+      "longdescription": "",
+      "large": "course/en/assets/6abd0c5e770659b82a355ae4.png",
+      "small": "course/en/assets/6abd0c6c7910bf3c46d135fa.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "6af5839714b33f620cd82409",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823f0",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd8240b",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823f2",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd8240d",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823f4",
+    "title": "How confident are you in tackling illegal lending?",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0, 0%, 0%);\">Before we dive into the course, take a moment to reflect on how confident you currently feel about recognising and responding to illegal lending.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\">This isn’t a test, and there are no right or wrong answers. It’s just an opportunity to identify the areas where you already feel confident, and the areas where you may want to build your confidence as you progress through this digital learning experience.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\">You’ll be asked the same questions again at the end of the course, so you can reflect on whether anything has changed.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\">Answer honestly, based on your experience right now.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\"><strong>Drag the sliders below to select your confidence levels (1 = Not at all confident, 5 = Very confident).</strong></span></p><p>&nbsp;</p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6af5839714b33f620cd8240f",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823f6",
+    "title": "Question 1",
+    "displayTitle": "Question 1",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">How confident do you feel about your awareness of what illegal lending involves?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "confidence",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>That’s understandable – illegal lending can be hidden, and customers may not always describe it in those terms. This course will help you build a clearer picture of what illegal lending involves and why it matters.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>That makes sense – illegal lending can be difficult to identify, especially when the lender appears familiar or trusted. This course will help you understand the key features and warning signs.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>You’ve got a solid starting point. This course will help you strengthen your understanding of how illegal lending operates and how it can affect customers.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>It sounds like you already have a good foundation. This course will help you sense-check and build on that knowledge, including through realistic scenarios and regional perspectives.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>That’s great – you may already have a strong awareness of illegal lending. This course can help you refresh your knowledge, explore practical examples and strengthen consistency in your response.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd82411",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823f8",
+    "title": "Question 2",
+    "displayTitle": "Question 2",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">How confident do you feel about spotting the red flags that your customer may have borrowed from an illegal lender?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "confidence",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>That’s okay – the signs of illegal lending are not always obvious. This course will help you recognise behavioural, emotional and financial indicators, even when a customer does not disclose directly.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>A lot of illegal lending is hidden in everyday relationships and informal arrangements. This course will help you spot patterns and explore concerns sensitively.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>You’re making progress. This course will help you strengthen your judgement and recognise signs that may be easy to miss in busy or complex customer conversations.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>It sounds like you already have a strong base. This course will help you build confidence across a wider range of situations, including where the signs are indirect or unclear.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>That’s a strong position to start from. This course can help you stay alert to different forms of illegal lending and reinforce how to sense-check concerns without making assumptions.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd82413",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823fa",
+    "title": "Question 3",
+    "displayTitle": "Question 3",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">How confident do you feel in taking action, including signposting or referral, if a customer has borrowed from an illegal lender?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "confidence",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>That’s understandable – next steps can feel sensitive, especially where there may be fear, coercion or safeguarding concerns. This course will help you understand safe, proportionate action within the boundaries of your role.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>It can be hard to know what to prioritise in the moment. This course will help you think through referral pathways, safeguarding considerations and how to support customers without adding pressure.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>You’ve got a good base. This course will help you build confidence in explaining options clearly, using appropriate referral routes and supporting customers to make informed choices.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>It sounds like you already have a clear sense of possible next steps. This course will help you reinforce good practice, including regional referral pathways and professional boundaries.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>Great – you may already have experience supporting customers in complex situations. This course can help you refresh your approach and strengthen consistency across different scenarios.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd82415",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823fc",
+    "title": "Question 4",
+    "displayTitle": "Question 4",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">How confident do you feel about having supportive, non-judgemental conversations with customers affected by illegal lending?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "confidence",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>That’s okay – these conversations can feel difficult, especially when customers are frightened, ashamed or unsure whether they want to act. This course will help you practise a calm, supportive approach.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>It can be challenging to balance empathy, fact-finding and urgency. This course will help you explore language and techniques that keep the customer feeling safe and in control.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>You’re in a good place to build from. This course will help you strengthen your approach to listening, asking questions and reducing shame or self-blame.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>It sounds like you already work hard to create supportive conversations. This course will help you refine that approach in the specific context of illegal lending.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>Great – you likely already have strong conversation skills. This course can help you apply those skills to illegal lending scenarios, where fear, loyalty, coercion or stigma may affect what customers feel able to share.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af5839714b33f620cd82417",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "background-colour9 custom-width-b",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd823fe",
+    "title": "How confident are you in tackling illegal lending?",
+    "displayTitle": "",
+    "body": "<p style=\"border:2px solid black;font-size:24px;padding:20px;text-align:center;\">Thanks for answering these questions.&nbsp;&nbsp;<br><br>As you work through the course, you’ll build confidence in recognising illegal lending, spotting warning signs, having supportive conversations and taking safe, proportionate action.&nbsp;<br><br>You’ll also explore how to use referral pathways, follow safeguarding and organisational procedures, maintain professional boundaries and look after your own wellbeing.&nbsp;<br><br>You’ll revisit the same confidence questions at the end of the course, so you can reflect on what’s changed for you.</p><p style=\"border:2px solid black;font-size:24px;padding:20px;text-align:center;\"><strong>When you’re ready, let’s get started and explore what you can do to help customers affected by illegal lending.</strong><br><br><strong>Close this window to exit.&nbsp;</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6af5839714b33f620cd82419",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af5839714b33f620cd82400",
+    "title": "Blank",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

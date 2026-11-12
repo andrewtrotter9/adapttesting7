@@ -1,0 +1,194 @@
+[
+  {
+    "_id": "6af5839614b33f620cd823db",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image13 no-element-backgrounds no-article-backgrounds remove-padding-top",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823d9",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image13 no-element-backgrounds no-article-backgrounds ",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823dd",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image13 no-element-backgrounds no-article-backgrounds remove-padding-bottom",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823df",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour2 no-element-backgrounds no-article-backgrounds remove-padding-top remove-padding-bottom",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823e1",
+    "_type": "article",
+    "title": "How confident are you in tackling illegal lending?",
+    "displayTitle": "How confident are you in tackling illegal lending?",
+    "body": "",
+    "_classes": "background-colour10 no-element-backgrounds no-article-backgrounds custom-hg-layout black-mobile-body",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823e7",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour2 remove-padding-top remove-padding-bottom",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823e5",
+    "_type": "article",
+    "title": "Let's get started",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image6 background-colour2 no-article-backgrounds article-centre",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "6af5839614b33f620cd823e3",
+    "_type": "article",
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image6",
+    "_parentId": "6af5839614b33f620cd823d6",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]

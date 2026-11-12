@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courseStructure xmlns="https://w3id.org/xapi/profiles/cmi5/v1/CourseStructure.xsd">
+    <course id="">
+        <title>
+            <langstring lang="en-US"><![CDATA[NEW // Pre-confidence check: How confident are you in tackling illegal lending?]]></langstring>
+        </title>
+        <description>
+            <langstring lang="en-US">
+                <![CDATA[]]>
+            </langstring>
+        </description>
+    </course>
+    <au id="1" moveOn="CompletedOrPassed" launchMethod="AnyWindow">
+        <title>
+            <langstring lang="en-US"><![CDATA[NEW // Pre-confidence check: How confident are you in tackling illegal lending?]]></langstring>
+        </title>
+        <description>
+            <langstring lang="en-US">
+                <![CDATA[]]>
+            </langstring>
+        </description>
+        <url>index.html</url>
+    </au>
+</courseStructure>

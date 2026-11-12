@@ -1,0 +1,844 @@
+[
+  {
+    "_id": "6af583e314b33f620cd82567",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82550",
+    "title": "Gwag",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82569",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82552",
+    "title": "Gwag",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd8256b",
+    "_type": "component",
+    "_component": "graphic",
+    "_layout": "left",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd8254e",
+    "title": "Graffeg",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Graddio eich hyder - Benthyca anghyfreithlon",
+      "longdescription": "",
+      "large": "course/cy/assets/6ada256a2f31545b5f943cce.png",
+      "small": "course/cy/assets/6ada258e30cbef22438e85bb.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_id": "6af583e314b33f620cd8256d",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82554",
+    "title": "Gwag",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd8256f",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82556",
+    "title": "Gwag",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82571",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82558",
+    "title": "Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:hsl(0, 0%, 0%);\">Cyn i ni ddechrau’r cwrs, cymerwch eiliad i fyfyrio ar ba mor hyderus rydych yn teimlo ar hyn o bryd am adnabod ac ymateb i fenthyca anghyfreithlon.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\">Nid prawf yw hwn, ac nid oes atebion cywir neu anghywir. Dim ond cyfle i nodi’r meysydd lle rydych eisoes yn teimlo’n hyderus, a’r meysydd lle efallai yr hoffech chi eich hyder wrth i chi symud ymlaen trwy’r profiad dysgu digidol hwn.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\">Gofynnir yr un cwestiynau i chi eto ar ddiwedd y cwrs, fel y gallwch fyfyrio a oes unrhyw beth wedi newid.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\">Atebwch yn onest, yn seiliedig ar eich profiad ar hyn o bryd.</span></p><p><span style=\"color:hsl(0, 0%, 0%);\"><strong>Tynnwch y sleidwyr isod i ddewis eich lefelau hyder (1 = Ddim yn hyderus o gwbl, 5 = Hyderus iawn).</strong></span></p><p>&nbsp;</p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6af583e314b33f620cd82573",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd8255a",
+    "title": "Cwestiwn 1",
+    "displayTitle": "Cwestiwn 1",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Pa mor hyderus ydych chi’n teimlo am eich ymwybyddiaeth o’r hyn y mae benthyca anghyfreithlon yn ei gynnwys?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "hyder",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>Mae hynny’n ddealladwy – gall benthyca anghyfreithlon fod wedi’i guddio, ac efallai na fydd cwsmeriaid bob amser yn ei ddisgrifio yn y termau hynny. Bydd y cwrs hwn yn eich helpu i adeiladu darlun cliriach o’r hyn y mae benthyca anghyfreithlon yn ei olygu a pham mae’n bwysig.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>Mae hynny’n gwneud synnwyr – gall benthyca anghyfreithlon fod yn anodd ei adnabod, yn enwedig pan fydd y benthyciwr yn ymddangos yn gyfarwydd neu gydag ymddiriedaeth ynddynt. Bydd y cwrs hwn yn eich helpu i ddeall y nodweddion allweddol a’r arwyddion rhybudd.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>Mae gennych fan cychwyn cadarn. Bydd y cwrs hwn yn eich helpu i gryfhau eich dealltwriaeth o sut mae benthyca anghyfreithlon yn gweithio a sut y gall effeithio ar gwsmeriaid.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>Mae’n swnio fel bod gennych sylfaen dda yn barod. Bydd y cwrs hwn yn eich helpu i wirio sefyllfa ac adeiladu ar y wybodaeth honno, gan gynnwys trwy senarios realistig a safbwyntiau rhanbarthol.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>Mae hynny’n wych – efallai bod gennych ymwybyddiaeth gref o fenthyca anghyfreithlon yn barod. Gall y cwrs hwn eich helpu i adnewyddu eich gwybodaeth, archwilio enghreifftiau ymarferol a chryfhau cysondeb yn eich ymateb.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82575",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd8255c",
+    "title": "Cwestiwn 2",
+    "displayTitle": "Cwestiwn 2",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Pa mor hyderus ydych chi’n teimlo am sylwi ar y baneri coch y gallai eich cwsmer fod wedi benthyg gan fenthyciwr anghyfreithlon?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "hyder",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>Mae hynny’n iawn – nid yw’r arwyddion o fenthyca anghyfreithlon bob amser yn amlwg. Bydd y cwrs hwn yn eich helpu i adnabod dangosyddion ymddygiadol, emosiynol ac ariannol, hyd yn oed pan nad yw cwsmer yn datgelu’n uniongyrchol.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>Mae llawer o fenthyca anghyfreithlon wedi’i guddio mewn perthnasoedd bob dydd a threfniadau anffurfiol. Bydd y cwrs hwn yn eich helpu i adnabod patrymau ac archwilio pryderon yn sensitif.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>Rydych yn gwneud cynnydd. Bydd y cwrs hwn yn eich helpu i gryfhau eich barn ac adnabod arwyddion a allai fod yn hawdd eu colli mewn sgyrsiau prysur neu gymhleth gyda chwsmeriaid.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>Mae’n swnio fel bod gennych sylfaen gref eisoes. Bydd y cwrs hwn yn eich helpu i fagu hyder ar draws ystod ehangach o sefyllfaoedd, gan gynnwys lle mae’r arwyddion yn anuniongyrchol neu’n aneglur.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>Mae hynny’n sefyllfa wych i ddechrau. Gall y cwrs hwn eich helpu i gadw’n ymwybodol o wahanol fathau o fenthyca anghyfreithlon ac atgyfnerthu sut i wirio pryderon heb wneud rhagdybiaethau.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82577",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd8255e",
+    "title": "Cwestiwn 3",
+    "displayTitle": "Cwestiwn 3",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Pa mor hyderus ydych chi’n teimlo wrth gymryd camau, gan gynnwys cyfeirio neu atgyfeirio, os yw cwsmer wedi benthyg gan fenthyciwr anghyfreithlon?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "hyder",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>Mae hynny’n ddealladwy – gall y camau nesaf deimlo’n sensitif, yn enwedig lle gall fod ofn, gorfodaeth neu bryderon diogelu. Bydd y cwrs hwn yn eich helpu i ddeall gweithredu diogel, cymesur o fewn ffiniau eich rôl.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>Gall fod yn anodd gwybod beth i’w flaenoriaethu ar hyn o bryd. Bydd y cwrs hwn yn eich helpu i feddwl trwy lwybrau atgyfeirio, ystyriaethau diogelu a sut i gefnogi cwsmeriaid heb ychwanegu pwysau.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>Mae gennych sylfaen dda. Bydd y cwrs hwn yn eich helpu i fagu hyder wrth esbonio opsiynau yn glir, gan ddefnyddio llwybrau atgyfeirio priodol a chefnogi cwsmeriaid i wneud dewisiadau gwybodus.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>Mae’n swnio fel bod gennych chi eisoes ymdeimlad clir o’r camau nesaf posibl. Bydd y cwrs hwn yn eich helpu i atgyfnerthu arfer da, gan gynnwys llwybrau atgyfeirio rhanbarthol a ffiniau proffesiynol.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>Gwych – efallai bod gennych brofiad eisoes o gefnogi cwsmeriaid mewn sefyllfaoedd cymhleth. Gall y cwrs hwn eich helpu i adnewyddu eich ymagwedd a chryfhau cysondeb ar draws gwahanol senarios.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd82579",
+    "_type": "component",
+    "_component": "confidenceSlider",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82560",
+    "title": "Cwestiwn 4",
+    "displayTitle": "Cwestiwn 4",
+    "body": "<p><span style=\"color:hsl(0,0%,0%);\">Pa mor hyderus ydych chi’n teimlo am gael sgyrsiau cefnogol, di-feirniadol gyda chwsmeriaid yr effeithir arnynt gan fenthyca anghyfreithlon?</span></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "ariaQuestion": "",
+    "disabledBody": "",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_shouldStoreResponses": false,
+    "_linkedToId": "",
+    "ariaScaleName": "hyder",
+    "labelStart": "",
+    "labelEnd": "",
+    "_scaleStart": 1,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "_showNumber": true,
+    "_showScaleIndicator": true,
+    "_showScale": true,
+    "_feedback": {
+      "title": "",
+      "altTitle": "",
+      "feedbackSeparator": "",
+      "generic": "",
+      "_comparison": {
+        "lower": "",
+        "same": "",
+        "higher": ""
+      },
+      "_threshold": [
+        {
+          "_values": {
+            "_low": 1,
+            "_high": 1
+          },
+          "text": "<p>Mae hynny’n iawn - gall y sgyrsiau hyn deimlo’n anodd, yn enwedig pan fydd cwsmeriaid yn ofnus, gyda chywilydd neu’n ansicr a ydynt eisiau gweithredu. Bydd y cwrs hwn yn eich helpu i ymarfer dull tawel, cefnogol.</p>"
+        },
+        {
+          "_values": {
+            "_low": 2,
+            "_high": 2
+          },
+          "text": "<p>Gall fod yn heriol cydbwyso empathi, canfod ffeithiau a brys. Bydd y cwrs hwn yn eich helpu i archwilio iaith a thechnegau sy’n cadw’r cwsmer i deimlo’n ddiogel ac mewn rheolaeth.</p>"
+        },
+        {
+          "_values": {
+            "_low": 3,
+            "_high": 3
+          },
+          "text": "<p>Rydych chi mewn lle da i adeiladu ohono. Bydd y cwrs hwn yn eich helpu i gryfhau eich ymagwedd at wrando, gofyn cwestiynau a lleihau cywilydd neu hunan-feio.</p>"
+        },
+        {
+          "_values": {
+            "_low": 4,
+            "_high": 4
+          },
+          "text": "<p>Mae’n swnio fel eich bod eisoes yn gweithio’n galed i greu sgyrsiau cefnogol. Bydd y cwrs hwn yn eich helpu i fireinio’r dull hwnnw yng nghyd-destun penodol benthyca anghyfreithlon.</p>"
+        },
+        {
+          "_values": {
+            "_low": 5,
+            "_high": 5
+          },
+          "text": "<p>Gwych – mae’n debyg bod gennych sgiliau sgwrsio cryf eisoes. Gall y cwrs hwn eich helpu i gymhwyso’r sgiliau hynny i senarios benthyca anghyfreithlon, lle gall ofn, teyrngarwch, gorfodaeth neu stigma effeithio ar yr hyn y mae cwsmeriaid yn teimlo eu bod yn gallu ei rannu.</p>"
+        }
+      ]
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "6af583e314b33f620cd8257b",
+    "_type": "component",
+    "_component": "text",
+    "_layout": "full",
+    "_classes": "background-colour9 custom-width-b",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82562",
+    "title": "Pa mor hyderus ydych chi wrth fynd i’r afael â benthyca anghyfreithlon?",
+    "displayTitle": "",
+    "body": "<p style=\"border:2px solid black;font-size:24px;padding:20px;text-align:center;\">Diolch am ateb y cwestiynau hyn.&nbsp;&nbsp;<br><br>Wrth i chi weithio drwy’r cwrs, byddwch yn meithrin hyder i adnabod benthyca anghyfreithlon, sylwi ar arwyddion rhybudd, cael sgyrsiau cefnogol a chymryd camau diogel, cymesur.&nbsp;<br><br>Byddwch hefyd yn archwilio sut i ddefnyddio llwybrau atgyfeirio, dilyn gweithdrefnau diogelu a sefydliadol, cynnal ffiniau proffesiynol a gofalu am eich lles eich hun.&nbsp;<br><br>Byddwch yn ailymweld â’r un cwestiynau hyder ar ddiwedd y cwrs, fel y gallwch adlewyrchu ar beth sydd wedi newid i chi.</p><p style=\"border:2px solid black;font-size:24px;padding:20px;text-align:center;\"><strong>Pan fyddwch chi’n barod, gadewch i ni ddechrau ac archwilio beth allwch chi ei wneud i helpu cwsmeriaid yr effeithir arnynt gan fenthyca anghyfreithlon.</strong><br><br><strong>Caewch y ffenestr hon i adael.&nbsp;</strong></p>",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "6af583e314b33f620cd8257d",
+    "_type": "component",
+    "_component": "blank",
+    "_layout": "full",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "_parentId": "6af583e314b33f620cd82564",
+    "title": "Gwag",
+    "displayTitle": "",
+    "body": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50,
+      "_animationName": "",
+      "_animationDelay": "delay-0.5s",
+      "_animationRepetition": "repeat-1",
+      "_animationSpeed": "slow"
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]
